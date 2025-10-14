@@ -4,10 +4,6 @@ A machine learning project that predicts whether a given text sentiment is posit
 
 https://text-sentiment-analysis00.streamlit.app/
 
-## Watch the Video 📺
-
-[![YouTube Video](https://img.shields.io/badge/YouTube-Watch%20Video-red?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/watch?v=uAz2i5CFa0c&t=674s)
-
 ---
 
 ## 🎯 Project Overview
@@ -94,34 +90,3 @@ The Streamlit web app (`app.py`) allows users to:
 Add some screenshots of your Streamlit app to make your project visually appealing.
 
 ![Screenshot 2025-01-06 153328](https://github.com/user-attachments/assets/361c9fe9-42e1-454c-918a-cf335dab938f)
-
-
-
----
-
-## 🤝 Contributing
-Contributions are welcome! If you have suggestions or improvements, feel free to:
-1. Fork the repo
-2. Create a branch
-3. Submit a Pull Request
-
----
-
-## 📄 License
-This project is licensed under the MIT License.
-
----
-
-## 💡 Acknowledgments
-- Kaggle for providing the dataset.
-- [Streamlit](https://streamlit.io/) for simplifying the web application deployment.
-
----
-
-## 📞 Contact
-For any questions or feedback:
-- Email: nikzmishra@gmail.com
-- Youtube: [Your Channel](https://www.youtube.com/@NeuralArc00/videos)
-
----
-**⭐ If you found this project helpful, give it a star! ⭐**
