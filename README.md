@@ -47,6 +47,10 @@ vii) IMDb Movie Reviews Dataset
 
 viii) Pickle
 
+Dataset
+
+https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+
 📂 Project File Structure
 
 ├── app.py                                           # Streamlit application
@@ -101,6 +105,9 @@ Rule-based sentiment checks are applied
 If rules do not match, the LSTM model predicts sentiment
 
 Final sentiment and confidence score are displayed
+
+<img width="1050" height="705" alt="image" src="https://github.com/user-attachments/assets/465c315f-d531-4ed2-9157-7d94a1b86edc" />
+
 
 📊 Model Evaluation
 
