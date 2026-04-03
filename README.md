@@ -1,6 +1,6 @@
 Text Sentiment Analysis Project
 
-This project is a Text Sentiment Analysis system that classifies movie reviews into Positive, Negative, or Neutral sentiments using Machine Learning and Deep Learning techniques.
+This project is a Text Sentiment Analysis system that classifies movie reviews into Positive, Negative using Machine Learning and Deep Learning techniques.
 The project uses Logistic Regression as a baseline model and an LSTM-based Deep Learning model, along with rule-based NLP logic, to improve prediction accuracy.
 
 The final model is deployed using Streamlit for real-time sentiment analysis.
